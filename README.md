@@ -16,6 +16,7 @@ download time. If the download is completed the UI may run as usual.
 
 ## Installation
 
-1. Download the Output folder in the root directory.
-2. Disable the virus protectors. 
-3. Simply run the youtube_downloder.exe.
+1. Disable the virus protectors. 
+2. Download the YouTube Downloader v1.0.zip file.
+3. Extract the zip and navigate to the YouTube Downloader v1.0 folder.
+4. Simply run the youtube_downloder.exe.
